@@ -3,7 +3,7 @@ Course Next.js
 
 ## Clone repo
 ```
-> git clone link
+> git clone https://github.com/RojasLeonJuanLuis/next-crash-course.git
 ```
 
 ## Install dependencies
